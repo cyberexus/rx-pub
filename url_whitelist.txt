@@ -1,1 +1,2 @@
 eu-central-1.webclient.amazonworkspaces.com
+8.8.4.4
