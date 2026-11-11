@@ -2,4 +2,4 @@ eu-central-1.webclient.amazonworkspaces.com
 google.com
 youtube.com
 ident.me
-1.1.1.1
+8.8.4.4
