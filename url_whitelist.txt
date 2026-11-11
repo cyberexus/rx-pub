@@ -1,4 +1,6 @@
 eu-central-1.webclient.amazonworkspaces.com
 google.com
 youtube.com
+telegram.org
+bybit.com
 1.1.1.1
